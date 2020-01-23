@@ -2,6 +2,6 @@
 
 Victor Tran
 
-# Outline
+**Outline**
 
 1. Blumenstock
