@@ -4,7 +4,7 @@ Victor Tran
 
 ## Outline
 
-2. [Blumenstock Response](https://vtran03.github.io/workshop/Blumenstock) (Jan 30, revised)
+1. [Blumenstock Response](https://vtran03.github.io/workshop/Blumenstock) (Jan 30, revised)
 
 ## Assignments
 
