@@ -22,4 +22,4 @@ Rosling cleared misconceptions that many westerners have about human development
 
 Another issue is how countries are portrayed based on their averaged data. Many countries are not all rich or all poor. There are levels of economic wealth within countries. Countries such as Niger and South Africa have very contrasting levels of wealth within their respective countries, with Niger creating a line on a graph of economic wealth. When people such as politicians make their opinions based on these averages, they are making their decisions based on inaccurate data that does not truly encapsulate the country's current status. They will therefore end up making less effective decisions. The context behind these numbers must be understood before they are used
 
-[Revised Response](vtran03.github.io/workshop/jahan_rosling_synthesis)
+[Revised Response](https://vtran03.github.io/workshop/jahan_rosling_synthesis)
