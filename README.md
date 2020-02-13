@@ -6,7 +6,7 @@ Victor Tran
 
 1. [Blumenstock Response](https://vtran03.github.io/workshop/Blumenstock) (Jan 30, revised)
 2. [Jahan & Rosling Response](https://vtran03.github.io/workshop/jahan_rosling) (Feb 4)
-3. [Assignment 1- Annotated Bibliography](https://vtran03.github.io/workshop/assignment_1)
+3. [Assignment 1- Annotated Bibliography](https://vtran03.github.io/workshop/assignment_1) (Feb 13)
 
 
 ## Assignments
