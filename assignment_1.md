@@ -14,7 +14,7 @@ Cameroon’s large informal economy exploits the current rampant economic inequa
 
 # Sources
 
- 1. **Bougna Lonla, T., & Nguimkeu, P. (2018, July). Spatial and sectoral heterogeneity of occupational choice in Cameroon (Technical Report No. WPS8515). Washington D.C., US: World Bank Group**
+**Bougna Lonla, T., & Nguimkeu, P. (2018, July). Spatial and sectoral heterogeneity of occupational choice in Cameroon (Technical Report No. WPS8515). Washington D.C., US: World Bank Group**
 
 Bugna and Nguimkeu investigate the issue of formal and informal businesses, with one being taxed and regulated by the Cameroon government while the latter is in a gray area which is not taxed or regulated by the government. Formal businesses have the benefit of access to credit, which is necessary for most businesses to expand. However, there are many constraints preventing informal businesses from becoming formal businesses such as entry costs and tax. Consequently, the companies do not have the resources to maximize production nor hire more labor. In order to reduce the unemployment rate and maximize economic productivity in regions of Cameroon where informal businesses are prevalent, the authors intend to identify the types of policies that could remove current constraints, increasing the overall transition rate of informal businesses formalizing. 
 
@@ -26,7 +26,7 @@ This paper relates to Amartya Sen’s idea of human development because it conce
 
 
 
- 2. **B, E.-N., Léandre, B., & Saumik, P. (2010, November). Accounting for heterogeneity in growth incidence in Cameroon (Technical Report No. WPS5464). Washington D.C., USA: World Bank.**
+**B, E.-N., Léandre, B., & Saumik, P. (2010, November). Accounting for heterogeneity in growth incidence in Cameroon (Technical Report No. WPS5464). Washington D.C., USA: World Bank.**
 
  The authors describe the large improvements of Cameroon’s economy in the past few decades while specifying the levels of inequality in such growth and how there is a disparity in the current economic status of many regions in Cameroon. In the early 2000’s, Cameroon created policies that were intended to decrease the level of inequality among regions, but a decade after the policies, the Gini index has only dropped by a couple of points. The author’s intent of this research paper was to use household statistics to create counterfactual analysis and identify which attributes were effective in eliminating economic inequality in regions of Cameroon. 
 	
@@ -36,7 +36,7 @@ In regard to certain regions of Cameroon, the authors used the Watts Poverty Gap
 
 This is related to Amartya Sen’s definition of human development since if there is a level of inequality, then people are most likely not reaching their potential output either because they do not the capabilities to do so or they do not have the opportunities to utilize their capabilities. Through understanding the reasons for this economic inequality, aid groups or politicians would be able to identify which type of aid or policies would be needed to properly address the issues. 
 
-3. **Rozo, S., & Wrinkler, H. (2019, October). Is informality good for business? The impacts of IDP inflows on formal firms (Technical Report No. WPS9035). Washington D.C., USA: World Bank.**
+**Rozo, S., & Wrinkler, H. (2019, October). Is informality good for business? The impacts of IDP inflows on formal firms (Technical Report No. WPS9035). Washington D.C., USA: World Bank.**
 
 This study involves the impact of internally displaced people (IDP) on the formal business economy. Generally, IDP are forced out of their region of origin instead of leaving out of their own free will. The authors specifically focus on IDP who leave due to violence such as political instability or gangs. Columbia has a large percentage of the population as IDP, so the authors use it for their study. The goal of authors’ research is to identify how IDP affect the performance of formal businesses, including productivity, prices, input demands, etc. 
 
@@ -46,7 +46,7 @@ These two sources of data were then analyzed and displayed geospatially as raste
 
 This research deals in particular with sustainable development goals relating to economy and equality since it is studying the effects of IDP on the performance of formal businesses and discusses IDP in general as people displaced forcibly from the municipality of origin. This also relates to Amartya Sen’s definition of human development because businesses are not reaching their full potential due to IDP, which means people will have less opportunities for jobs. Additionally, IDP are not able to obtain formal jobs and have to rely on informal businesses which can be in the legal-gray area or exploitative. Countries with a significant number of IDP need to address the causes of IDP such as violence in the regions of origin. Through this, there will be higher economic growth and the number of IDP will decrease. 
 
-4. **Gachassin, M., Najman, B., & Raballand, G. (2010, February). The Impact of roads on poverty reduction: A case study of Cameroon (Technical Report No. 5209). Washington D.C., USA: World Bank.**
+**Gachassin, M., Najman, B., & Raballand, G. (2010, February). The Impact of roads on poverty reduction: A case study of Cameroon (Technical Report No. 5209). Washington D.C., USA: World Bank.**
 
 The authors of this research study analyzed whether improvements in infrastructure, in particular, roads, would be helpful in decreasing the poverty gap found in much of Cameroon. They saw that in rural areas, the poverty rate and distance to the nearest tarred roads were much higher than if they were looking at an urban area in Cameroon. Rural areas in general have agriculture as the number one source of jobs. However, it is one of the lowest paying jobs as well, so residents of rural areas do not have the opportunities for high-paying jobs to increase their income. The authors want to know if improving road availability will indirectly reduce poverty in Cameroon since they will be able to work in areas farther away. 
 
@@ -56,7 +56,7 @@ The authors use several data science techniques to further their research. They 
 
 This is related to Amartya Sen’s definition of human development because roads are required for access to many necessities such as healthcare, education, and jobs. Without roads, people do not have the ability to go to school or get jobs because the distance to travel on an unpaved road is too tiresome or long. By identifying the impact of a lack of infrastructure on accessibility of important resources, proper targeted planning can be done to reduce inequality by enhancing infrastructure in these impacted areas. 
 
-5. **Todaro, M. P. (1969). A model of labor migration and urban unemployment in less developed countries. The American Economic Review, 59(1), 138-148.**
+**Todaro, M. P. (1969). A model of labor migration and urban unemployment in less developed countries. The American Economic Review, 59(1), 138-148.**
 
 In rural areas where jobs are mostly agriculture-based, income is low. This encourages rural workers to consider moving to urban areas in search of a job that has substantially higher pay. However, there is a delicate risk and reward analysis that must take place. Todaro suggests that it may be simple to move to the urban area, but finding a job is not guaranteed and could take a long time, burning money during the process.  Todaro uses a series of models to identify the relationships between variables which may impact the rural-urban migration patterns. By creating these models, Todaro hopes that they will be used in order to identify and put in place effective policies that will reduce levels of unemployment in both the rural and urban section of the economy. 
 
