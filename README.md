@@ -11,7 +11,7 @@ Victor Tran
 
 ## Assignments
 
-1. Annotated Bibliography(https://vtran03.github.io/workshop/assignment_1) (Feb 23)
+1. [Annotated Bibliography](https://vtran03.github.io/workshop/assignment_1) (Feb 23)
   - Problem Statement
     - Harms
     - Significance of those harms
