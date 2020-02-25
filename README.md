@@ -7,7 +7,7 @@ Victor Tran
 1. [Blumenstock Response](https://vtran03.github.io/workshop/Blumenstock) (Jan 30, revised)
 2. [Jahan & Rosling Response](https://vtran03.github.io/workshop/jahan_rosling) (Feb 4)
 3. [Owen Barder](https://vtran03.github.io/workshop/owen_barder) (Feb 18)
-
+4. [Anderson & Kitchen Response](https://vtran03.github.io/workshop/anderson_kitchen_response) (Feb 18)
 
 ## Assignments
 
