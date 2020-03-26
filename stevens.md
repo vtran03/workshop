@@ -1,3 +1,9 @@
+# Stevens
+
+### Victor Tran
+
+### March 26, 2020
+
 **In the reading today (Stevens et al.) use a technique to produce a high resolution description of the distribution of human populations across the globe. What is the name of the technique and describe in general and basic terms how it works?**
 
 The authors use a technique called Random Forest which combines a series of models into one larger model, taking the best parts of each one as weights. In this instance, the authors used a number of regression models which had the input of covariate data from census and remote sensing. They used a technique to identify which covariate models were most important and then excluded any features which made zero impact on the results of the model. 
