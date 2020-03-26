@@ -1,8 +1,10 @@
 # Stevens
 
-### Victor Tran
+Victor Tran
 
-### March 26, 2020
+March 26, 2020
+
+[Reading](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0107042&type=printable)
 
 **In the reading today (Stevens et al.) use a technique to produce a high resolution description of the distribution of human populations across the globe. What is the name of the technique and describe in general and basic terms how it works?**
 
