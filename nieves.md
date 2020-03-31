@@ -1,3 +1,12 @@
+# Nieves et al.
+
+Victor Tran
+
+March 31 2020
+
+[Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746564/pdf/rsif20170401.pdf)
+
+
 **Nieves et a. use the random forest machine learning method to predict what value globally?**
 
 They use the Random Forest method to predict population density to identify the population distribution within countries on a finer scale than administrative boundaries
