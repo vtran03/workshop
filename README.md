@@ -12,7 +12,7 @@ Victor Tran
 5. [Nieves et al.](https://vtran03.github.io/workshop/nieves) (Mar 31)
 ## Assignments
 
-1. [Annotated Bibliography](https://vtran03.github.io/workshop/assignment_1) (Feb 23)
+[1] [Annotated Bibliography](https://vtran03.github.io/workshop/assignment_1) (Feb 23)
   - Problem Statement
     - Harms
     - Significance of those harms
@@ -23,4 +23,4 @@ Victor Tran
   - Dimension of Human Development
   
   
- 2. Literature Review
+ [2] Literature Review
