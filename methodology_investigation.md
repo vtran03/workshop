@@ -22,8 +22,12 @@ The authors used a standard multi-layered feedforward neural network. They made 
 
 #### Results
 The results of the model varied based on profession, with an average accuracy of 67.5% with clerk having the highest accuracy of 73.5% and skilled worker having the worst accuracy of 61.9%. Compared to the baseline of 2.1%, the researchers obtained accuracy 30 times better than randomization. After that, the researchers then only included the top 20 features within their neural networks. From this, they realized that several features were commonly found in the top 20 of the 18 networks, examples of this are the most frequently used cellphone tower, number of places visited, and the radius of gyration (general distance traveled from home tower). After this, the researchers created a geographical distribution of profession and employment status across the country based on cellular tower data. 
+
+
 ![](sundsoy1.png)
 ![](sundsoy2.png)
+
+
 ### Steele at al. – Hierarchal Bayesian Geospatial Models
 
 Steele et al’s goal was to be able to identify poverty on a subnational level using a variety of datasets including call detail records and remote sensing data. Similarly to Sundsoy et al, they found that low-and-middle-income countries did not have census data or it was out-of-date. Through the use of Bayesian geospatial models, they hope to be able to accurately produce subnational values of three popular poverty indices. They in particular wanted to identify what combination of datasets (CRD and RS) was most effective at predicting poverty. 
@@ -45,13 +49,20 @@ From there, the researchers chose the most relevant covariates to include in the
 #### Methods
 
 Using the covariates chosen in the previous step, Steele et al created hierarchal Bayesian geospatial models. They used a variety of techniques to create these models such as integrated nested Laplace approximations and Gaussian Markov random field. From this, they formed the spatial random vector 
+
+
  ![](steele2.png)
+ 
  
 After this, the three different poverty indices were calculated for each Voronoi polygon. 
 #### Results
 
 The researchers found that CDR-RS data was the most effective combination of data types for all situations compared to using only remote-sensing data or only call-detail record data, but not by a large margin. They found that usually the order of accuracy from most accurate to least was a combination of CDR and RS data, CDR data only, and RS data only. While the CDR-RS models were fairly consistent regardless of if the location was urban or rural, they found that CDR and RS only datasets were more effective on either urban zones or rural zones. RS only was more accurate in rural areas and CDR only was more effective at urban areas. 
+
+
  ![](steele3.png)
+ 
+ 
 ### Relevance to my research question
 
 Sundsoy and Steele’s work both contribute to my understanding of my research question. Sundsoy’s work focuses on classification of people and areas based on a variety of factors using cellular data. This is relevant to me because I am interested in identifying areas that are particularly focused in the informal economy. In Cameroon, these areas are generally urban with clerks and service workers being the most common member of the informal economy. Since Sundsoy focuses on profession, which is also related to the informal economy, I could use a similar technique to theirs that instead focus on classification of the informal economy
