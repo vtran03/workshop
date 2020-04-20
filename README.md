@@ -24,3 +24,5 @@ Victor Tran
   
   
  [2] [Literature Review](https://vtran03.github.io/workshop/literature_review)
+ 
+ [3] [Methodology Investigation](https://vtran03.github.io/workshop/methodology_investigation)
