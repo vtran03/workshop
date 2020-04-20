@@ -68,3 +68,16 @@ The researchers found that CDR-RS data was the most effective combination of dat
 Sundsoy and Steele’s work both contribute to my understanding of my research question. Sundsoy’s work focuses on classification of people and areas based on a variety of factors using cellular data. This is relevant to me because I am interested in identifying areas that are particularly focused in the informal economy. In Cameroon, these areas are generally urban with clerks and service workers being the most common member of the informal economy. Since Sundsoy focuses on profession, which is also related to the informal economy, I could use a similar technique to theirs that instead focus on classification of the informal economy
 
 Steele et al. used a mix of cellular and remote sensing data to predict the levels of poverty in subnational regions of Bangladesh. This relates to the second part of my research question which focuses on being able to predict the effects of the information economy by using covariates that are related to the level of the informal economy in a certain region.  
+
+
+### References
+
+[1] Bougna Lonla, T., & Nguimkeu, P. (2018, July). Spatial and sectoral heterogeneity of occupational choice in Cameroon (Technical Report No. WPS8515). Washington D.C., US: World Bank Group
+
+[2] Rozo, S., & Wrinkler, H. (2019, October). Is informality good for business? The impacts of IDP inflows on formal firms (Technical Report No. WPS9035). Washington D.C., USA: World Bank.
+
+[3] Steele, J. E., Sundsoy, P. R., Pezzulo, C., Alegana, V. A., Bird, T. J., Blumenstock, J., . . . Bengtsson, L. (2017). Mapping poverty using mobile phone and sattelite data. Journal of the Royal Society Interface, 14(127). http://doi.org/10.1098/rsif.2016.0690 
+
+[4] Sundsoy, P., Bjelland, J., Jahani, E., Wetter, E., & Bengtsson, L. (2017). Towards real-time 
+prediction of unemployment and profession. Social Informatics, 14-23. https://doi.org/10.1007/ 
+978-3-319-67256-4_2
