@@ -35,7 +35,11 @@ For this research, they studied Bangladesh. Steele et al used three different da
 In terms of call detail records, they received their data from the most used cellular operator, GP. The company had around 50 million customers during the study and covered nearly 100% of population and 90% of the land area. Unlike Sundsoy, they did not go into detail about what features were included in the dataset. They simply said it contained information about phone usage, handset information, and social networks. 
 
 The researchers did not use just one remote-sensing dataset, but rather 25. They were all varying in formatting and were a mix of raster and vector data, so they had to reformat them into one dataset using Voronoi polygons at 1km resolution.
+
+
  ![](steele1.png)
+ 
+ 
 From there, the researchers chose the most relevant covariates to include in their model using a series of techniques. They used generalized linear models to create all the different combination of covariates possible and models were chosen based on Akaike’s information criterion. 
 
 #### Methods
@@ -44,7 +48,7 @@ Using the covariates chosen in the previous step, Steele et al created hierarcha
  ![](steele2.png)
  
 After this, the three different poverty indices were calculated for each Voronoi polygon. 
-### Results
+#### Results
 
 The researchers found that CDR-RS data was the most effective combination of data types for all situations compared to using only remote-sensing data or only call-detail record data, but not by a large margin. They found that usually the order of accuracy from most accurate to least was a combination of CDR and RS data, CDR data only, and RS data only. While the CDR-RS models were fairly consistent regardless of if the location was urban or rural, they found that CDR and RS only datasets were more effective on either urban zones or rural zones. RS only was more accurate in rural areas and CDR only was more effective at urban areas. 
  ![](steele3.png)
