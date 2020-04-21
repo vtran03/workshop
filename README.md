@@ -10,6 +10,7 @@ Victor Tran
 4. [Anderson & Kitchen Response](https://vtran03.github.io/workshop/anderson_kitchen_response) (Feb 18)
 5. [Stevens et al.](https://vtran03.github.io/workshop/stevens) (Mar 26)
 5. [Nieves et al.](https://vtran03.github.io/workshop/nieves) (Mar 31)
+6. [In Class Essay 2](https://vtran03.github.io/workshop/inclassessay2) (Mar 31)
 ## Assignments
 
 [1] [Annotated Bibliography](https://vtran03.github.io/workshop/assignment_1) (Feb 23)
